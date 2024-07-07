@@ -7,5 +7,9 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "bun": "^1.1.18",
+    "express": "^4.19.2"
+  }
 }
